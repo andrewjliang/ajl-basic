@@ -21,7 +21,7 @@ $if(journal.blinded)$
 \bigskip
 \spacingset{1}
 $else$
-\title{\bf $title$}
+\title{\textbf{$title$}}
 \author{
 $for(by-author)$
 $it.name.literal$$if(it.acknowledgements)$\thanks{$it.acknowledgements$}$endif$\\
@@ -33,7 +33,7 @@ $endif$
 \bigskip
 \bigskip
 \begin{abstract}
-$abstract$
+\noindent $abstract$
 \end{abstract}
 
 $if(keywords)$
