@@ -1,22 +1,18 @@
-# Ajl-basic Format
+# ajl-basic Format
 
 ## Installing
 
-*TODO*: Replace the `<github-organization>` with your GitHub organization.
+Run the following code in the terminal:
 
 ```bash
-quarto use template <github-organization>/ajl-basic
+quarto use template andrewjliang/ajl-basic
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your article.
 
 ## Using
 
-*TODO*: Describe how to use your format.
-
-## Format Options
-
-*TODO*: If your format has options that can be set via document metadata, describe them.
+I typically use this working paper format for papers in political science. Since the title and headings use Public Sans, you'll need to set the pdf-engine as either XeLaTeX or LuaLaTeX. 
 
 ## Example
 
