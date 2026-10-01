@@ -16,5 +16,5 @@ I typically use this working paper format for papers in political science. Since
 
 ## Example
 
-Here is the source code for a minimal sample document: [example.qmd](example.qmd).
+Here is the source code for a minimal sample document: [template.qmd](template.qmd).
 
